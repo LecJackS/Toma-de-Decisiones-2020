@@ -1,0 +1,3 @@
+id	text	page	type	choices	choiceNames	reverse	questionIndex	describtion	placeholder	min	max	disabled	checkType	width	height	inline	randomize
+NA	"¡Muchas gracias por participar!"	1	h3	NA	NA	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"Ya podés cerrar la ventana."	1	p	NA	NA	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0

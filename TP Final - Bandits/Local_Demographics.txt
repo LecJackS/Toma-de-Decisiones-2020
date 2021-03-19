@@ -1,0 +1,6 @@
+id	text	page	type	choices	choiceNames	reverse	placeholder	min	max	disabled	checkType	width	height	inline	randomize
+NA	"Demografía"	1	h2	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"Por favor constestá las siguientes preguntas."	1	h3	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+age	"¿Cuántos años tenés?"	1	numericInput	18	NA	NA	NA	0	100	1	is.null	500px	NA	NA	0
+sex	"¿Género?"	1	radioButtons	1,2,3	"Varón,Mujer,Otro"	NA	NA	NA	NA	1	is.null	500px	NA	1	0
+

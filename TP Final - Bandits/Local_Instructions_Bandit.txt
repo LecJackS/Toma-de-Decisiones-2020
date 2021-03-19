@@ -1,0 +1,17 @@
+id	text	page	type	choices	choiceNames	reverse	placeholder	min	max	disabled	checkType	width	height	inline	randomize
+NA	"JUEGO DE DECISIONES"	1	h2	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"El propósito de este juego es realizar un experimento sobre cómo tomamos decisiones."	1	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"No tiene ningún riesgo de salud o de privacidad asociado."	1	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"Tus respuestas son anónimas y no serán publicadas."	1	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"Te va a llevar entre 3 y 6 minutos."	1	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"Si aceptás participar, por favor ingresá a continuación un usuario único que nadie más vaya a usar."	1	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+workerid	"Ingresá un nombre de usuario único que nadie más vaya a usar"	1	textInput	NA	NA	NA	"ejemplo: Gato57Puerta"	NA	NA	1	nchar	500px	NA	NA	0
+NA	"Instrucciones"	2	h2	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"En cada pantalla vas a ver dos cajas blancas. Tenés que elegir una de las dos para hacer clic."	2	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"Cada vez que hacés clic en una caja, podés recibir un punto o ninguno."	2	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"Cada caja tiene sus propias chances de dar puntos (dá puntos un cierto porcentaje de las veces que hacés clic)."	2	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"Tu objetivo es juntar la mayor cantidad de puntos posibles."	2	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"En algunos momentos te vamos a hacer dos preguntas: cuál creés que es la mejor caja en esa ronda y cuán seguro/a estás de eso. Estas respuestas no afectan en nada a tu puntaje o a tus chances de ganar."	2	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"Si aceptás, empecemos con una primera ronda de prueba (estos puntos no se van a guardar)"	2	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+NA	"Si querés continuar, por favor indicá tu consentimiento en el siguiente casillero."	2	p	NA	NA	NA	NA	NA	NA	0	NA	500px	NA	NA	0
+checkConsent	"Acepto participar del juego."	2	checkboxInput	NA	NA	NA	NA	NA	NA	1	isTRUE	500px	NA	NA	0
